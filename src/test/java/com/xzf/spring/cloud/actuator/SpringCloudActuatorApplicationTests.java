@@ -1,4 +1,4 @@
-package com.xzf.spring.cloud.springcloudactuator;
+package com.xzf.spring.cloud.actuator;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
